@@ -1,0 +1,56 @@
+#a {
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    position: fixed;
+    top : 180px;
+    left: 500px;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    letter-spacing: 10px;
+    background-color: red;
+ }
+img#s { 
+   height: 200px;
+   width: 200px;
+   position: fixed;
+   left: 0px;
+    }
+img#e {
+    height: 200px;
+   width: 200px;
+   position: fixed;
+   right:0px;
+}
+img#c {
+    height: 120px;
+    width: 400px;
+    position: fixed;
+    left:430px;
+    bottom: 0px;
+    background-color: white;
+}
+button#f {
+    height: 50px;
+    background-color:white;
+    border: 100px
+}
+p#ki {
+    position: fixed;
+    top: 500px;
+    right: 0px;
+}
+p#i {
+    position: fixed;
+    top: 500px;
+    left: 0px;
+}
+body {
+    background-color: black;
+}
+p#g {
+    color: red;
+}
